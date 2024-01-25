@@ -322,12 +322,12 @@ i:hover{
 .mack img{
     margin-top:60px ;
     height: 200px;
-    width: 360px;
+    width: 300px;
 }
 
 .iphone img{
     height: 200px;
-    width: 200px;
+    width: 180px;
     margin-top: 50px;
 }
 .product-image:hover img, .product-Iphone-image:hover img, .product-Watch-image:hover img{
